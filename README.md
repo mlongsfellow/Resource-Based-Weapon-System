@@ -1,4 +1,4 @@
-**GODOT V4.3** | For all future tutorials and Devlog updates, check out my channel! https://www.youtube.com/@noahlongsfellow
+**GODOT V4.3** | For all future tutorials and Devlog updates, check out my channel! https://www.youtube.com/@morganlongsfellow
 
 -------------------------------------------------------------------
 
